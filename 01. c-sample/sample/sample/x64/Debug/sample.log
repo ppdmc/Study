@@ -1,0 +1,2 @@
+﻿exam2-3.obj : error LNK2005: main이(가) sample.obj에 이미 정의되어 있습니다.
+E:\Study\01. c-sample\sample\x64\Debug\sample.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
